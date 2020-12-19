@@ -7,3 +7,5 @@ a music player basic on web app
 - 使用 npm 安装的 gulp-imagemin 进行图片压缩时可能会报错无法加载模块，建议使用 cnpm 安装
 
 ## 2.结构与样式
+
+## 3.渲染及加载音乐，切换功能
