@@ -24,6 +24,8 @@
         let loving = dom.querySelector('.songProcess-control li:nth-of-type(1)');
         if (isLike) {
             loving.className = 'liking';
+        } else {
+            loving.className = '';
         }
     }
 
